@@ -1,586 +1,165 @@
 Module,Dependency,License,Url
-chroniql-server,io.github.openfeign.form:feign-form-spring:3.8.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,commons-logging:commons-logging:1.2,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.springframework.security:spring-security-rsa:1.0.10.RELEASE,Apache 2.0,http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.springframework.boot:spring-boot-starter-json:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,org.springframework.data:spring-data-commons:2.4.15,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,org.springframework.data:spring-data-mongodb:3.1.15,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,io.springfox:springfox-swagger-common:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.springframework.cloud:spring-cloud-loadbalancer:3.0.5,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,org.aspectj:aspectjweaver:1.9.7,Eclipse Public License - v 2.0,https://www.eclipse.org/org/documents/epl-2.0/EPL-2.0.txt
-chroniql-server,net.logstash.logback:logstash-logback-encoder:6.4,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,net.logstash.logback:logstash-logback-encoder:6.4,MIT License,http://www.slf4j.org/license.html
-chroniql-server,org.springframework.boot:spring-boot-starter-cache:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,io.springfox:springfox-spring-webmvc:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.springframework.cloud:spring-cloud-starter-openfeign:3.0.6,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,org.springframework:spring-core:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,org.slf4j:slf4j-api:1.7.32,MIT License,http://www.opensource.org/licenses/mit-license.php
-chroniql-server,org.springframework.boot:spring-boot-starter-validation:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,org.bouncycastle:bcpkix-jdk15on:1.68,Bouncy Castle Licence,http://www.bouncycastle.org/licence.html
-chroniql-server,org.apache.tomcat.embed:tomcat-embed-websocket:9.0.55,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,net.minidev:json-smart:2.3.1,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.springframework.cloud:spring-cloud-openfeign-core:3.0.6,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,org.apache.logging.log4j:log4j-api:2.13.3,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,io.springfox:springfox-oas:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,io.projectreactor:reactor-core:3.4.12,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,io.springfox:springfox-boot-starter:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.mapstruct:mapstruct:1.3.1.Final,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.springframework.boot:spring-boot-starter:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,io.github.openfeign:feign-slf4j:10.12,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,com.fasterxml.jackson.core:jackson-databind:2.11.4,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,com.fasterxml.jackson.module:jackson-module-parameter-names:2.11.4,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.springframework.boot:spring-boot-starter-actuator:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,org.mongodb:mongodb-driver-sync:4.1.2,"The Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,com.stoyanr:evictor:1.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,io.springfox:springfox-core:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,io.swagger.core.v3:swagger-annotations:2.1.2,Apache License 2.0,http://www.apache.org/licenses/LICENSE-2.0.html
-chroniql-server,org.apache.httpcomponents:httpclient:4.5.13,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.glassfish:jakarta.el:3.0.4,EPL 2.0,http://www.eclipse.org/legal/epl-2.0
-chroniql-server,org.glassfish:jakarta.el:3.0.4,GPL2 w/ CPE,https://www.gnu.org/software/classpath/license.html
-chroniql-server,com.googlecode.json-simple:json-simple:1.1.1,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,io.swagger.core.v3:swagger-models:2.1.2,Apache License 2.0,http://www.apache.org/licenses/LICENSE-2.0.html
-chroniql-server,org.springframework:spring-jcl:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,org.openapitools:jackson-databind-nullable:0.2.1,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.springframework.hateoas:spring-hateoas:1.2.11,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,org.springframework:spring-context-support:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,javax.xml.bind:jaxb-api:2.3.1,CDDL 1.1,https://oss.oracle.com/licenses/CDDL+GPL-1.1
-chroniql-server,javax.xml.bind:jaxb-api:2.3.1,GPL2 w/ CPE,https://oss.oracle.com/licenses/CDDL+GPL-1.1
-chroniql-server,com.auth0:java-jwt:3.8.0,The MIT License (MIT),https://raw.githubusercontent.com/auth0/java-jwt/master/LICENSE
-chroniql-server,org.springframework.security:spring-security-crypto:5.4.9,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.springframework.boot:spring-boot-starter-security:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,org.jvnet.staxex:stax-ex:1.7.8,Dual license consisting of the CDDL v1.1 and GPL v2,https://glassfish.dev.java.net/public/CDDL+GPL_1_1.html
-chroniql-server,org.glassfish.jaxb:jaxb-core:2.3.0.1,CDDL+GPL License,http://glassfish.java.net/public/CDDL+GPL_1_1.html
-chroniql-server,org.ow2.asm:asm:5.0.4,BSD,http://asm.objectweb.org/license.html
-chroniql-server,io.springfox:springfox-swagger2:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.springframework.boot:spring-boot:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,com.jayway.jsonpath:json-path:2.4.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.springframework:spring-tx:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,com.amazonaws:aws-java-sdk-s3:1.11.415,"Apache License, Version 2.0",https://aws.amazon.com/apache2.0
-chroniql-server,org.springframework.cloud:spring-cloud-starter:3.0.5,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,org.apache.httpcomponents:httpcore:4.4.14,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,io.swagger:swagger-annotations:1.5.20,Apache License 2.0,http://www.apache.org/licenses/LICENSE-2.0.html
-chroniql-server,org.springframework.cloud:spring-cloud-context:3.0.5,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,org.springframework:spring-expression:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,io.springfox:springfox-data-rest:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.springframework.boot:spring-boot-starter-tomcat:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,org.yaml:snakeyaml:1.27,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,io.github.openfeign.form:feign-form:3.8.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.apache.tomcat:tomcat-annotations-api:9.0.55,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,com.amazonaws:aws-java-sdk-core:1.11.415,"Apache License, Version 2.0",https://aws.amazon.com/apache2.0
-chroniql-server,jakarta.annotation:jakarta.annotation-api:1.3.5,EPL 2.0,http://www.eclipse.org/legal/epl-2.0
-chroniql-server,jakarta.annotation:jakarta.annotation-api:1.3.5,GPL2 w/ CPE,https://www.gnu.org/software/classpath/license.html
-chroniql-server,com.amazonaws:jmespath-java:1.11.415,"Apache License, Version 2.0",https://aws.amazon.com/apache2.0
-chroniql-server,org.bouncycastle:bcprov-jdk15on:1.69,Bouncy Castle Licence,https://www.bouncycastle.org/licence.html
-chroniql-server,org.jolokia:jolokia-core:1.6.2,Apache 2,http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,io.micrometer:micrometer-core:1.6.13,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,software.amazon.ion:ion-java:1.0.2,"The Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.springframework:spring-web:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,org.springframework:spring-beans:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,org.apache.logging.log4j:log4j-to-slf4j:2.13.3,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,ch.qos.logback:logback-classic:1.2.7,Eclipse Public License - v 1.0,http://www.eclipse.org/legal/epl-v10.html
-chroniql-server,ch.qos.logback:logback-classic:1.2.7,GNU Lesser General Public License,http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
-chroniql-server,org.springframework.cloud:spring-cloud-starter-loadbalancer:3.0.5,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,org.springframework.security:spring-security-web:5.4.9,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,io.springfox:springfox-spi:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,net.minidev:accessors-smart:2.3.1,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,com.sun.xml.fastinfoset:FastInfoset:1.2.13,"Apache License, Version 2.0",http://www.opensource.org/licenses/apache2.0.php
-chroniql-server,net.bytebuddy:byte-buddy:1.10.22,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.springframework.plugin:spring-plugin-core:2.0.0.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,com.fasterxml.jackson.core:jackson-core:2.11.4,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.jboss.logging:jboss-logging:3.4.2.Final,"Apache License, version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,joda-time:joda-time:2.8.1,Apache 2,http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.checkerframework:checker-qual:3.8.0,The MIT License,http://opensource.org/licenses/MIT
-chroniql-server,javax.activation:activation:1.1,Common Development and Distribution License (CDDL) v1.0,https://glassfish.dev.java.net/public/CDDLv1.0.html
-chroniql-server,ch.qos.logback:logback-core:1.2.7,Eclipse Public License - v 1.0,http://www.eclipse.org/legal/epl-v10.html
-chroniql-server,ch.qos.logback:logback-core:1.2.7,GNU Lesser General Public License,http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
-chroniql-server,org.mongodb:bson:4.1.2,"The Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,de.codecentric:spring-boot-admin-client:2.1.6,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,commons-codec:commons-codec:1.15,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.glassfish.jaxb:jaxb-runtime:2.3.0.1,CDDL+GPL License,http://glassfish.java.net/public/CDDL+GPL_1_1.html
-chroniql-server,org.springframework.security:spring-security-core:5.4.9,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
+chroniql-server,ch.qos.logback:logback-classic:1.5.6,Eclipse Public License - v 1.0,http://www.eclipse.org/legal/epl-v10.html
+chroniql-server,,GNU Lesser General Public License,http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+chroniql-server,ch.qos.logback:logback-core:1.5.6,Eclipse Public License - v 1.0,http://www.eclipse.org/legal/epl-v10.html
+chroniql-server,,GNU Lesser General Public License,http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+chroniql-server,com.auth0:java-jwt:4.4.0,The MIT License (MIT),https://raw.githubusercontent.com/auth0/java-jwt/master/LICENSE
+chroniql-server,com.bucket4j:bucket4j-core:8.0.1,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,com.fasterxml:classmate:1.7.0,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,com.fasterxml.jackson.core:jackson-annotations:2.17.2,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,com.fasterxml.jackson.core:jackson-core:2.17.2,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,com.fasterxml.jackson.core:jackson-databind:2.17.2,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.17.2,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.17.2,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.17.2,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,com.fasterxml.jackson.module:jackson-module-parameter-names:2.17.2,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,com.fasterxml.woodstox:woodstox-core:5.2.1,"The Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,com.github.bbottema:jetbrains-runtime-annotations:1.0.1,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,com.github.ben-manes.caffeine:caffeine:3.1.8,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
+chroniql-server,com.github.jknack:handlebars:4.4.0,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
+chroniql-server,com.github.spotbugs:spotbugs-annotations:4.8.3,"GNU LESSER GENERAL PUBLIC LICENSE, Version 2.1",https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html
+chroniql-server,com.github.spotbugs:spotbugs-annotations:4.8.6,"GNU LESSER GENERAL PUBLIC LICENSE, Version 2.1",https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html
+chroniql-server,com.github.ua-parser:uap-java:1.6.1,"The Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,com.google.code.findbugs:jsr305:3.0.2,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,com.google.errorprone:error_prone_annotations:2.21.1,Apache 2.0,https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,com.jayway.jsonpath:json-path:2.9.0,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
+chroniql-server,com.onelogin:java-saml-core:2.9.0,MIT License,https://opensource.org/licenses/MIT
+chroniql-server,com.pivovarit:throwing-function:1.5.1,"The Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,com.sanctionco.jmail:jmail:1.4.1,MIT License,https://opensource.org/licenses/mit-license.php
+chroniql-server,com.sun.activation:jakarta.activation:2.0.1,EDL 1.0,http://www.eclipse.org/org/documents/edl-v10.php
+chroniql-server,com.sun.istack:istack-commons-runtime:4.1.2,Eclipse Distribution License - v 1.0,http://www.eclipse.org/org/documents/edl-v10.php
+chroniql-server,com.sun.mail:jakarta.mail:2.0.1,EPL 2.0,http://www.eclipse.org/legal/epl-2.0
+chroniql-server,,GPL2 w/ CPE,https://www.gnu.org/software/classpath/license.html
+chroniql-server,,EDL 1.0,http://www.eclipse.org/org/documents/edl-v10.php
+chroniql-server,commons-codec:commons-codec:1.16.1,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0.txt
+chroniql-server,commons-fileupload:commons-fileupload:1.5,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0.txt
+chroniql-server,commons-io:commons-io:2.11.0,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
+chroniql-server,de.codecentric:spring-boot-admin-client:3.3.3,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,io.github.openfeign:feign-core:13.3,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,io.github.openfeign:feign-slf4j:13.3,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,io.github.openfeign.form:feign-form-spring:3.8.0,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,io.github.openfeign.form:feign-form:3.8.0,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,io.micrometer:micrometer-commons:1.13.2,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,io.micrometer:micrometer-core:1.13.2,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,io.micrometer:micrometer-jakarta9:1.13.2,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,io.micrometer:micrometer-observation:1.13.2,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,io.swagger.core.v3:swagger-annotations-jakarta:2.2.15,Apache License 2.0,http://www.apache.org/licenses/LICENSE-2.0.html
+chroniql-server,io.swagger.core.v3:swagger-annotations-jakarta:2.2.22,Apache License 2.0,http://www.apache.org/licenses/LICENSE-2.0.html
+chroniql-server,io.swagger.core.v3:swagger-core-jakarta:2.2.15,Apache License 2.0,http://www.apache.org/licenses/LICENSE-2.0.html
+chroniql-server,io.swagger.core.v3:swagger-core-jakarta:2.2.22,Apache License 2.0,http://www.apache.org/licenses/LICENSE-2.0.html
+chroniql-server,io.swagger.core.v3:swagger-models-jakarta:2.2.15,Apache License 2.0,http://www.apache.org/licenses/LICENSE-2.0.html
+chroniql-server,io.swagger.core.v3:swagger-models-jakarta:2.2.22,Apache License 2.0,http://www.apache.org/licenses/LICENSE-2.0.html
+chroniql-server,jakarta.activation:jakarta.activation-api:2.1.3,EDL 1.0,http://www.eclipse.org/org/documents/edl-v10.php
+chroniql-server,jakarta.annotation:jakarta.annotation-api:2.1.1,EPL 2.0,http://www.eclipse.org/legal/epl-2.0
+chroniql-server,,GPL2 w/ CPE,https://www.gnu.org/software/classpath/license.html
+chroniql-server,jakarta.validation:jakarta.validation-api:3.0.2,Apache License 2.0,https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,jakarta.xml.bind:jakarta.xml.bind-api:4.0.2,Eclipse Distribution License - v 1.0,http://www.eclipse.org/org/documents/edl-v10.php
+chroniql-server,joda-time:joda-time:2.10.6,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
+chroniql-server,net.logstash.logback:logstash-logback-encoder:7.4,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,,MIT License,http://www.slf4j.org/license.html
+chroniql-server,net.logstash.logback:logstash-logback-encoder:8.0,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,,MIT License,http://www.slf4j.org/license.html
+chroniql-server,net.minidev:accessors-smart:2.5.1,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,net.minidev:json-smart:2.5.1,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,net.ricecode:string-similarity:1.0.0,MIT License,http://www.opensource.org/licenses/mit-license.php
+chroniql-server,ognl:ognl:3.3.4,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.apache.commons:commons-collections4:4.4,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.apache.commons:commons-lang3:3.14.0,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.apache.commons:commons-text:1.11.0,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.apache.logging.log4j:log4j-api:2.23.1,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.apache.logging.log4j:log4j-to-slf4j:2.23.1,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.apache.santuario:xmlsec:2.2.3,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.apache.tomcat:tomcat-annotations-api:10.1.26,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.apache.tomcat.embed:tomcat-embed-core:10.1.26,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.apache.tomcat.embed:tomcat-embed-el:10.1.26,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.apache.tomcat.embed:tomcat-embed-websocket:10.1.26,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.aspectj:aspectjweaver:1.9.22.1,Eclipse Public License - v 2.0,https://www.eclipse.org/org/documents/epl-2.0/EPL-2.0.txt
+chroniql-server,org.attoparser:attoparser:2.0.7.RELEASE,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
+chroniql-server,org.bouncycastle:bcpg-jdk18on:1.78.1,Bouncy Castle Licence,https://www.bouncycastle.org/licence.html
+chroniql-server,,"Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.bouncycastle:bcprov-jdk18on:1.78.1,Bouncy Castle Licence,https://www.bouncycastle.org/licence.html
+chroniql-server,org.bouncycastle:bcutil-jdk18on:1.78.1,Bouncy Castle Licence,https://www.bouncycastle.org/licence.html
+chroniql-server,org.checkerframework:checker-qual:3.37.0,The MIT License,http://opensource.org/licenses/MIT
+chroniql-server,org.codehaus.woodstox:stax2-api:4.2,The BSD License,http://www.opensource.org/licenses/bsd-license.php
+chroniql-server,org.eclipse.angus:angus-activation:2.0.2,EDL 1.0,http://www.eclipse.org/org/documents/edl-v10.php
+chroniql-server,org.glassfish.jaxb:jaxb-core:4.0.5,Eclipse Distribution License - v 1.0,http://www.eclipse.org/org/documents/edl-v10.php
+chroniql-server,org.glassfish.jaxb:jaxb-runtime:4.0.5,Eclipse Distribution License - v 1.0,http://www.eclipse.org/org/documents/edl-v10.php
+chroniql-server,org.glassfish.jaxb:txw2:4.0.5,Eclipse Distribution License - v 1.0,http://www.eclipse.org/org/documents/edl-v10.php
+chroniql-server,org.hdrhistogram:HdrHistogram:2.2.2,"Public Domain, per Creative Commons CC0",http://creativecommons.org/publicdomain/zero/1.0/
+chroniql-server,,BSD-2-Clause,https://opensource.org/licenses/BSD-2-Clause
+chroniql-server,org.hibernate.validator:hibernate-validator:8.0.1.Final,Apache License 2.0,https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.javassist:javassist:3.29.0-GA,MPL 1.1,http://www.mozilla.org/MPL/MPL-1.1.html
+chroniql-server,,LGPL 2.1,http://www.gnu.org/licenses/lgpl-2.1.html
+chroniql-server,,Apache License 2.0,https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.jboss.aerogear:aerogear-otp-java:1.0.0,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.jboss.logging:jboss-logging:3.5.3.Final,Apache License 2.0,https://repository.jboss.org/licenses/apache-2.0.txt
 chroniql-server,org.latencyutils:LatencyUtils:2.0.3,"Public Domain, per Creative Commons CC0",http://creativecommons.org/publicdomain/zero/1.0/
-chroniql-server,io.swagger:swagger-models:1.5.20,Apache License 2.0,http://www.apache.org/licenses/LICENSE-2.0.html
-chroniql-server,org.springframework:spring-context:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,javax.activation:javax.activation-api:1.2.0,CDDL/GPLv2+CE,https://github.com/javaee/activation/blob/master/LICENSE.txt
-chroniql-server,org.springframework.boot:spring-boot-actuator-autoconfigure:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,org.springframework.cloud:spring-cloud-commons:3.0.5,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,io.projectreactor.addons:reactor-extra:3.4.5,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.apache.tomcat.embed:tomcat-embed-core:9.0.55,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,com.github.ben-manes.caffeine:caffeine:2.8.8,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.11.4,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.springframework.boot:spring-boot-starter-web:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.11.4,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,com.google.errorprone:error_prone_annotations:2.4.0,Apache 2.0,http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,com.sun.istack:istack-commons-runtime:3.0.5,CDDL 1.1,https://glassfish.java.net/public/CDDL+GPL_1_1.html
-chroniql-server,com.sun.istack:istack-commons-runtime:3.0.5,GPL2 w/ CPE,https://glassfish.java.net/public/CDDL+GPL_1_1.html
-chroniql-server,org.springframework.boot:spring-boot-actuator:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,com.fasterxml.jackson.core:jackson-annotations:2.11.4,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.springframework.plugin:spring-plugin-metadata:2.0.0.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,org.springframework.boot:spring-boot-starter-data-mongodb:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,com.github.jknack:handlebars:4.1.2,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.bouncycastle:bcpg-jdk15on:1.69,Bouncy Castle Licence,https://www.bouncycastle.org/licence.html
-chroniql-server,org.bouncycastle:bcpg-jdk15on:1.69,"Apache Software License, Version 1.1",https://www.apache.org/licenses/LICENSE-1.1
-chroniql-server,com.fasterxml:classmate:1.5.1,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,com.github.vladimir-bukhtoyarov:bucket4j-core:6.2.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,org.springframework.boot:spring-boot-starter-logging:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,io.springfox:springfox-swagger-ui:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.slf4j:jul-to-slf4j:1.7.32,MIT License,http://www.opensource.org/licenses/mit-license.php
-chroniql-server,org.hdrhistogram:HdrHistogram:2.1.12,"Public Domain, per Creative Commons CC0",http://creativecommons.org/publicdomain/zero/1.0/
-chroniql-server,org.hdrhistogram:HdrHistogram:2.1.12,BSD-2-Clause,https://opensource.org/licenses/BSD-2-Clause
-chroniql-server,jakarta.validation:jakarta.validation-api:2.0.2,Apache License 2.0,http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,commons-io:commons-io:2.2,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,io.springfox:springfox-bean-validators:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.hibernate.validator:hibernate-validator:6.1.7.Final,Apache License 2.0,http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.springframework.boot:spring-boot-starter-aop:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,org.springframework.boot:spring-boot-autoconfigure:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,io.springfox:springfox-spring-web:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,io.github.classgraph:classgraph:4.8.83,The MIT License (MIT),http://opensource.org/licenses/MIT
-chroniql-server,com.amazonaws:aws-java-sdk-kms:1.11.415,"Apache License, Version 2.0",https://aws.amazon.com/apache2.0
-chroniql-server,org.glassfish.jaxb:txw2:2.3.5,Eclipse Distribution License - v 1.0,http://www.eclipse.org/org/documents/edl-v10.php
-chroniql-server,com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.11.4,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,commons-fileupload:commons-fileupload:1.4,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,io.springfox:springfox-schema:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.springframework:spring-aop:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,org.springframework.security:spring-security-config:5.4.9,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,io.springfox:springfox-spring-webflux:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.springframework:spring-webmvc:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-chroniql-server,io.github.openfeign:feign-core:10.12,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.mongodb:mongodb-driver-core:4.1.2,"The Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-chroniql-server,org.reactivestreams:reactive-streams:1.0.3,CC0,http://creativecommons.org/publicdomain/zero/1.0/
-notarization-server,io.github.openfeign.form:feign-form-spring:3.8.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.springframework.security:spring-security-rsa:1.0.10.RELEASE,Apache 2.0,http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.springframework.boot:spring-boot-starter-json:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,org.springframework.data:spring-data-commons:2.4.15,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,org.springframework.data:spring-data-mongodb:3.1.15,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,io.springfox:springfox-swagger-common:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.aspectj:aspectjweaver:1.9.7,Eclipse Public License - v 2.0,https://www.eclipse.org/org/documents/epl-2.0/EPL-2.0.txt
-notarization-server,org.springframework.boot:spring-boot-starter-cache:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,io.springfox:springfox-spring-webmvc:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.springframework.cloud:spring-cloud-starter-openfeign:3.0.6,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,org.springframework:spring-core:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,org.slf4j:slf4j-api:1.7.32,MIT License,http://www.opensource.org/licenses/mit-license.php
-notarization-server,org.springframework.boot:spring-boot-starter-validation:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,org.bouncycastle:bcpkix-jdk15on:1.68,Bouncy Castle Licence,http://www.bouncycastle.org/licence.html
-notarization-server,org.apache.tomcat.embed:tomcat-embed-websocket:9.0.55,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,net.minidev:json-smart:2.3.1,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.springframework.cloud:spring-cloud-openfeign-core:3.0.6,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,org.apache.logging.log4j:log4j-api:2.13.3,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,io.springfox:springfox-oas:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,io.springfox:springfox-boot-starter:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.mapstruct:mapstruct:1.3.1.Final,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.springframework.boot:spring-boot-starter:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,io.github.openfeign:feign-slf4j:10.12,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,com.fasterxml.jackson.core:jackson-databind:2.11.4,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,com.fasterxml.jackson.module:jackson-module-parameter-names:2.11.4,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.springframework.boot:spring-boot-starter-actuator:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,org.mongodb:mongodb-driver-sync:4.1.2,"The Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,io.springfox:springfox-core:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,io.swagger.core.v3:swagger-annotations:2.1.2,Apache License 2.0,http://www.apache.org/licenses/LICENSE-2.0.html
-notarization-server,org.glassfish:jakarta.el:3.0.4,EPL 2.0,http://www.eclipse.org/legal/epl-2.0
-notarization-server,org.glassfish:jakarta.el:3.0.4,GPL2 w/ CPE,https://www.gnu.org/software/classpath/license.html
-notarization-server,com.googlecode.json-simple:json-simple:1.1.1,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,io.swagger.core.v3:swagger-models:2.1.2,Apache License 2.0,http://www.apache.org/licenses/LICENSE-2.0.html
-notarization-server,org.springframework:spring-jcl:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,org.openapitools:jackson-databind-nullable:0.2.1,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.springframework.hateoas:spring-hateoas:1.2.11,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,org.springframework:spring-context-support:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,com.auth0:java-jwt:3.8.0,The MIT License (MIT),https://raw.githubusercontent.com/auth0/java-jwt/master/LICENSE
-notarization-server,org.springframework.security:spring-security-crypto:5.4.9,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.springframework.boot:spring-boot-starter-security:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,com.google.guava:failureaccess:1.0.1,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.ow2.asm:asm:5.0.4,BSD,http://asm.objectweb.org/license.html
-notarization-server,io.springfox:springfox-swagger2:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.springframework.boot:spring-boot:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,com.sun.activation:jakarta.activation:1.2.2,EDL 1.0,http://www.eclipse.org/org/documents/edl-v10.php
-notarization-server,com.jayway.jsonpath:json-path:2.4.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.springframework:spring-tx:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,org.springframework.cloud:spring-cloud-starter:3.0.5,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,io.swagger:swagger-annotations:1.5.20,Apache License 2.0,http://www.apache.org/licenses/LICENSE-2.0.html
-notarization-server,org.springframework.cloud:spring-cloud-context:3.0.5,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,org.springframework:spring-expression:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,io.springfox:springfox-data-rest:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.springframework.boot:spring-boot-starter-tomcat:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,org.yaml:snakeyaml:1.27,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,io.github.openfeign.form:feign-form:3.8.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.apache.tomcat:tomcat-annotations-api:9.0.55,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,jakarta.annotation:jakarta.annotation-api:1.3.5,EPL 2.0,http://www.eclipse.org/legal/epl-2.0
-notarization-server,jakarta.annotation:jakarta.annotation-api:1.3.5,GPL2 w/ CPE,https://www.gnu.org/software/classpath/license.html
-notarization-server,org.bouncycastle:bcprov-jdk15on:1.69,Bouncy Castle Licence,https://www.bouncycastle.org/licence.html
-notarization-server,org.jolokia:jolokia-core:1.6.2,Apache 2,http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,io.micrometer:micrometer-core:1.6.13,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.springframework:spring-web:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,com.google.code.findbugs:jsr305:3.0.2,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.springframework:spring-beans:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,org.apache.logging.log4j:log4j-to-slf4j:2.13.3,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,ch.qos.logback:logback-classic:1.2.7,Eclipse Public License - v 1.0,http://www.eclipse.org/legal/epl-v10.html
-notarization-server,ch.qos.logback:logback-classic:1.2.7,GNU Lesser General Public License,http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
-notarization-server,org.springframework.security:spring-security-web:5.4.9,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,com.sun.istack:istack-commons-runtime:4.0.1,Eclipse Distribution License - v 1.0,http://www.eclipse.org/org/documents/edl-v10.php
-notarization-server,io.springfox:springfox-spi:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,net.minidev:accessors-smart:2.3.1,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,com.google.guava:guava:31.0.1-jre,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,com.google.errorprone:error_prone_annotations:2.7.1,Apache 2.0,http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,net.bytebuddy:byte-buddy:1.10.22,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,jakarta.activation:jakarta.activation-api:1.2.2,EDL 1.0,http://www.eclipse.org/org/documents/edl-v10.php
-notarization-server,net.logstash.logback:logstash-logback-encoder:5.0,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0
-notarization-server,net.logstash.logback:logstash-logback-encoder:5.0,MIT License,http://www.slf4j.org/license.html
-notarization-server,org.springframework.plugin:spring-plugin-core:2.0.0.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,com.fasterxml.jackson.core:jackson-core:2.11.4,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.checkerframework:checker-qual:3.12.0,The MIT License,http://opensource.org/licenses/MIT
-notarization-server,org.jboss.logging:jboss-logging:3.4.2.Final,"Apache License, version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,ch.qos.logback:logback-core:1.2.7,Eclipse Public License - v 1.0,http://www.eclipse.org/legal/epl-v10.html
-notarization-server,ch.qos.logback:logback-core:1.2.7,GNU Lesser General Public License,http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
-notarization-server,de.codecentric:spring-boot-admin-client:2.1.6,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0
-notarization-server,org.mongodb:bson:4.1.2,"The Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,commons-codec:commons-codec:1.15,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.springframework.security:spring-security-core:5.4.9,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.latencyutils:LatencyUtils:2.0.3,"Public Domain, per Creative Commons CC0",http://creativecommons.org/publicdomain/zero/1.0/
-notarization-server,io.swagger:swagger-models:1.5.20,Apache License 2.0,http://www.apache.org/licenses/LICENSE-2.0.html
-notarization-server,org.springframework:spring-context:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,org.springframework.boot:spring-boot-actuator-autoconfigure:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,org.springframework.cloud:spring-cloud-commons:3.0.5,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,org.apache.tomcat.embed:tomcat-embed-core:9.0.55,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,com.github.ben-manes.caffeine:caffeine:2.8.8,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.11.4,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.springframework.boot:spring-boot-starter-web:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,org.springframework.boot:spring-boot-actuator:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,com.fasterxml.jackson.core:jackson-annotations:2.11.4,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.springframework.plugin:spring-plugin-metadata:2.0.0.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,org.springframework.boot:spring-boot-starter-data-mongodb:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,org.bouncycastle:bcpg-jdk15on:1.69,Bouncy Castle Licence,https://www.bouncycastle.org/licence.html
-notarization-server,org.bouncycastle:bcpg-jdk15on:1.69,"Apache Software License, Version 1.1",https://www.apache.org/licenses/LICENSE-1.1
-notarization-server,org.glassfish.jaxb:jaxb-runtime:3.0.1,Eclipse Distribution License - v 1.0,http://www.eclipse.org/org/documents/edl-v10.php
-notarization-server,com.fasterxml:classmate:1.5.1,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.glassfish.jaxb:jaxb-core:3.0.1,Eclipse Distribution License - v 1.0,http://www.eclipse.org/org/documents/edl-v10.php
-notarization-server,jakarta.xml.bind:jakarta.xml.bind-api:2.3.3,Eclipse Distribution License - v 1.0,http://www.eclipse.org/org/documents/edl-v10.php
-notarization-server,org.springframework.boot:spring-boot-starter-logging:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,io.springfox:springfox-swagger-ui:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.slf4j:jul-to-slf4j:1.7.32,MIT License,http://www.opensource.org/licenses/mit-license.php
-notarization-server,org.hdrhistogram:HdrHistogram:2.1.12,"Public Domain, per Creative Commons CC0",http://creativecommons.org/publicdomain/zero/1.0/
-notarization-server,org.hdrhistogram:HdrHistogram:2.1.12,BSD-2-Clause,https://opensource.org/licenses/BSD-2-Clause
-notarization-server,jakarta.validation:jakarta.validation-api:2.0.2,Apache License 2.0,http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,commons-io:commons-io:2.2,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,io.springfox:springfox-bean-validators:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.hibernate.validator:hibernate-validator:6.1.7.Final,Apache License 2.0,http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.springframework.boot:spring-boot-starter-aop:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,org.springframework.boot:spring-boot-autoconfigure:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,io.springfox:springfox-spring-web:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,io.github.classgraph:classgraph:4.8.83,The MIT License (MIT),http://opensource.org/licenses/MIT
-notarization-server,org.glassfish.jaxb:txw2:2.3.5,Eclipse Distribution License - v 1.0,http://www.eclipse.org/org/documents/edl-v10.php
-notarization-server,com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.11.4,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,commons-fileupload:commons-fileupload:1.4,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,io.springfox:springfox-schema:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.springframework:spring-aop:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,com.google.j2objc:j2objc-annotations:1.3,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.springframework.security:spring-security-config:5.4.9,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,io.springfox:springfox-spring-webflux:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.springframework:spring-webmvc:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notarization-server,io.github.openfeign:feign-core:10.12,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notarization-server,org.mongodb:mongodb-driver-core:4.1.2,"The Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,com.sun.jersey:jersey-client:1.19.1,CDDL 1.1,http://glassfish.java.net/public/CDDL+GPL_1_1.html
-notification-server,com.sun.jersey:jersey-client:1.19.1,GPL2 w/ CPE,http://glassfish.java.net/public/CDDL+GPL_1_1.html
-notification-server,org.apache.tomcat.embed:tomcat-embed-websocket:9.0.17,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.jetbrains.kotlin:kotlin-stdlib-common:1.3.40,"The Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.unbescape:unbescape:1.1.6.RELEASE,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,io.springfox:springfox-spi:2.8.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,io.github.openfeign:feign-slf4j:9.7.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.springframework.cloud:spring-cloud-openfeign-core:2.0.2.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,commons-codec:commons-codec:1.11,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.reflections:reflections:0.9.11,WTFPL,http://www.wtfpl.net/
-notification-server,org.reflections:reflections:0.9.11,The New BSD License,http://www.opensource.org/licenses/bsd-license.html
-notification-server,org.aspectj:aspectjweaver:1.9.2,Eclipse Public License - v 1.0,http://www.eclipse.org/legal/epl-v10.html
-notification-server,org.springframework.security:spring-security-crypto:5.1.5.RELEASE,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.springframework.plugin:spring-plugin-core:1.2.0.RELEASE,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0
-notification-server,org.jetbrains.kotlin:kotlin-reflect:1.3.40,"The Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.jetbrains:annotations:13.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,com.github.ben-manes.caffeine:caffeine:2.6.2,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,com.fasterxml:classmate:1.4.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,commons-configuration:commons-configuration:1.8,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,net.bytebuddy:byte-buddy:1.9.12,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,com.netflix.ribbon:ribbon-httpclient:2.2.5,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.jboss.logging:jboss-logging:3.3.2.Final,"Apache License, version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,io.github.openfeign:feign-core:9.7.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.springframework.cloud:spring-cloud-commons:2.0.2.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,com.fasterxml.jackson.core:jackson-databind:2.9.8,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,io.swagger:swagger-annotations:1.5.14,Apache License 2.0,http://www.apache.org/licenses/LICENSE-2.0.html
-notification-server,org.apache.logging.log4j:log4j-api:2.11.2,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.thymeleaf:thymeleaf:3.0.11.RELEASE,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.springframework.boot:spring-boot-starter-actuator:2.1.4.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,org.apache.httpcomponents:httpclient:4.5.8,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.springframework.hateoas:spring-hateoas:0.25.1.RELEASE,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0
-notification-server,org.springframework.cloud:spring-cloud-starter-netflix-archaius:2.0.2.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,com.netflix.hystrix:hystrix-core:1.5.12,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.9.8,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.springframework:spring-core:5.1.6.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,org.springframework.security:spring-security-web:5.1.5.RELEASE,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,com.netflix.netflix-commons:netflix-statistics:0.1.1,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,commons-lang:commons-lang:2.6,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.springframework.cloud:spring-cloud-context:2.0.2.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,org.springframework:spring-jcl:5.1.6.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,org.springframework.data:spring-data-commons:2.1.6.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,org.javassist:javassist:3.21.0-GA,MPL 1.1,http://www.mozilla.org/MPL/MPL-1.1.html
-notification-server,org.javassist:javassist:3.21.0-GA,LGPL 2.1,http://www.gnu.org/licenses/lgpl-2.1.html
-notification-server,org.javassist:javassist:3.21.0-GA,Apache License 2.0,http://www.apache.org/licenses/
-notification-server,javax.xml.bind:jaxb-api:2.3.1,CDDL 1.1,https://oss.oracle.com/licenses/CDDL+GPL-1.1
-notification-server,javax.xml.bind:jaxb-api:2.3.1,GPL2 w/ CPE,https://oss.oracle.com/licenses/CDDL+GPL-1.1
-notification-server,com.auth0:java-jwt:3.8.0,The MIT License (MIT),https://raw.githubusercontent.com/auth0/java-jwt/master/LICENSE
-notification-server,org.springframework.boot:spring-boot-starter-aop:2.1.4.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,org.springframework.cloud:spring-cloud-starter-netflix-ribbon:2.0.2.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,org.springframework.boot:spring-boot-starter-web:2.1.4.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,org.springframework.boot:spring-boot-starter:2.1.4.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,com.google.code.findbugs:annotations:3.0.1,GNU Lesser Public License,http://www.gnu.org/licenses/lgpl.html
-notification-server,org.springframework.security:spring-security-config:5.1.5.RELEASE,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,com.netflix.ribbon:ribbon-loadbalancer:2.2.5,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.jvnet.staxex:stax-ex:1.7.8,Dual license consisting of the CDDL v1.1 and GPL v2,https://glassfish.dev.java.net/public/CDDL+GPL_1_1.html
-notification-server,io.github.openfeign.form:feign-form-spring:3.3.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.springframework.boot:spring-boot-actuator:2.1.4.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,org.glassfish.jaxb:jaxb-core:2.3.0.1,CDDL+GPL License,http://glassfish.java.net/public/CDDL+GPL_1_1.html
-notification-server,org.bouncycastle:bcprov-jdk15on:1.61,Bouncy Castle Licence,http://www.bouncycastle.org/licence.html
-notification-server,io.micrometer:micrometer-core:1.1.4,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.apache.tomcat.embed:tomcat-embed-el:9.0.17,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,javax.inject:javax.inject:1,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,io.springfox:springfox-swagger2:2.8.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,com.netflix.ribbon:ribbon-core:2.2.5,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,javax.validation:validation-api:2.0.1.Final,Apache License 2.0,http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.slf4j:jul-to-slf4j:1.7.26,MIT License,http://www.opensource.org/licenses/mit-license.php
-notification-server,org.springframework.boot:spring-boot-starter-cache:2.1.4.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,org.apache.tomcat.embed:tomcat-embed-core:9.0.17,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,com.fasterxml.jackson.module:jackson-module-parameter-names:2.9.8,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.mapstruct:mapstruct:1.2.0.Final,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,ch.qos.logback:logback-classic:1.2.3,Eclipse Public License - v 1.0,http://www.eclipse.org/legal/epl-v10.html
-notification-server,ch.qos.logback:logback-classic:1.2.3,GNU Lesser General Public License,http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
-notification-server,org.bouncycastle:bcpg-jdk15on:1.61,Bouncy Castle Licence,http://www.bouncycastle.org/licence.html
-notification-server,org.bouncycastle:bcpg-jdk15on:1.61,"Apache Software License, Version 1.1",http://www.apache.org/licenses/LICENSE-1.1
-notification-server,io.reactivex:rxnetty:0.4.9,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.jetbrains.kotlin:kotlin-stdlib:1.3.40,"The Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.hdrhistogram:HdrHistogram:2.1.9,"Public Domain, per Creative Commons CC0",http://creativecommons.org/publicdomain/zero/1.0/
-notification-server,org.springframework.boot:spring-boot-starter-tomcat:2.1.4.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,io.springfox:springfox-schema:2.8.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.springframework:spring-aop:5.1.6.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,io.github.openfeign.form:feign-form:3.3.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.springframework.boot:spring-boot-starter-logging:2.1.4.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,org.springframework.security:spring-security-rsa:1.0.7.RELEASE,Apache 2.0,http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,commons-collections:commons-collections:3.2.2,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.hibernate.validator:hibernate-validator:6.0.16.Final,Apache License 2.0,http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.bouncycastle:bcpkix-jdk15on:1.60,Bouncy Castle Licence,http://www.bouncycastle.org/licence.html
-notification-server,com.netflix.ribbon:ribbon-transport:2.2.5,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.springframework.cloud:spring-cloud-starter:2.0.2.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,org.springframework:spring-context:5.1.6.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,com.fasterxml.jackson.core:jackson-annotations:2.9.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.slf4j:slf4j-api:1.7.26,MIT License,http://www.opensource.org/licenses/mit-license.php
-notification-server,org.springframework.security:spring-security-core:5.1.5.RELEASE,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,com.sun.xml.fastinfoset:FastInfoset:1.2.13,"Apache License, Version 2.0",http://www.opensource.org/licenses/apache2.0.php
-notification-server,org.simplejavamail:simple-java-mail:5.1.7,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.springframework.cloud:spring-cloud-starter-openfeign:2.0.2.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,org.springframework.boot:spring-boot:2.1.4.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,net.logstash.logback:logstash-logback-encoder:5.0,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0
-notification-server,net.logstash.logback:logstash-logback-encoder:5.0,MIT License,http://www.slf4j.org/license.html
-notification-server,com.google.guava:guava:20.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,ognl:ognl:3.1.12,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.springframework.cloud:spring-cloud-netflix-archaius:2.0.2.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,org.springframework.boot:spring-boot-autoconfigure:2.1.4.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,com.sun.jersey:jersey-core:1.19.1,CDDL 1.1,http://glassfish.java.net/public/CDDL+GPL_1_1.html
-notification-server,com.sun.jersey:jersey-core:1.19.1,GPL2 w/ CPE,http://glassfish.java.net/public/CDDL+GPL_1_1.html
-notification-server,org.springframework.cloud:spring-cloud-netflix-ribbon:2.0.2.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,javax.activation:activation:1.1,Common Development and Distribution License (CDDL) v1.0,https://glassfish.dev.java.net/public/CDDLv1.0.html
-notification-server,com.netflix.servo:servo-core:0.12.21,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.springframework:spring-webmvc:5.1.6.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,org.yaml:snakeyaml:1.23,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.springframework.plugin:spring-plugin-metadata:1.2.0.RELEASE,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0
-notification-server,org.glassfish.jaxb:jaxb-runtime:2.3.0.1,CDDL+GPL License,http://glassfish.java.net/public/CDDL+GPL_1_1.html
-notification-server,org.latencyutils:LatencyUtils:2.0.3,"Public Domain, per Creative Commons CC0",http://creativecommons.org/publicdomain/zero/1.0/
-notification-server,com.github.bbottema:emailaddress-rfc2822:1.1.2,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.8,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.apache.httpcomponents:httpcore:4.4.11,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,javax.activation:javax.activation-api:1.2.0,CDDL/GPLv2+CE,https://github.com/javaee/activation/blob/master/LICENSE.txt
-notification-server,com.fasterxml.jackson.module:jackson-module-kotlin:2.9.9,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,com.netflix.archaius:archaius-core:0.7.6,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.springframework.boot:spring-boot-starter-security:2.1.4.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,com.netflix.ribbon:ribbon:2.2.5,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.springframework:spring-expression:5.1.6.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,io.github.openfeign:feign-hystrix:9.7.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.apache.tomcat:tomcat-annotations-api:9.0.17,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,com.sun.istack:istack-commons-runtime:3.0.5,CDDL 1.1,https://glassfish.java.net/public/CDDL+GPL_1_1.html
-notification-server,com.sun.istack:istack-commons-runtime:3.0.5,GPL2 w/ CPE,https://glassfish.java.net/public/CDDL+GPL_1_1.html
-notification-server,com.google.code.findbugs:jsr305:3.0.1,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,com.github.jknack:handlebars:4.1.2,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,com.sun.jersey.contribs:jersey-apache-client4:1.19.1,CDDL 1.1,http://glassfish.java.net/public/CDDL+GPL_1_1.html
-notification-server,com.sun.jersey.contribs:jersey-apache-client4:1.19.1,GPL2 w/ CPE,http://glassfish.java.net/public/CDDL+GPL_1_1.html
-notification-server,io.reactivex:rxjava:1.2.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,io.springfox:springfox-spring-web:2.8.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,javax.ws.rs:jsr311-api:1.1.1,CDDL License,http://www.opensource.org/licenses/cddl1.php
-notification-server,org.springframework:spring-context-support:5.1.6.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,io.springfox:springfox-core:2.8.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,commons-fileupload:commons-fileupload:1.3.3,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.apache.logging.log4j:log4j-to-slf4j:2.11.2,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,com.fasterxml.jackson.core:jackson-core:2.9.8,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,commons-io:commons-io:2.2,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,io.reactivex:rxnetty-servo:0.4.9,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,io.github.openfeign:feign-java8:9.7.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.springframework:spring-beans:5.1.6.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,com.netflix.netflix-commons:netflix-commons-util:0.3.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,ch.qos.logback:logback-core:1.2.3,Eclipse Public License - v 1.0,http://www.eclipse.org/legal/epl-v10.html
-notification-server,ch.qos.logback:logback-core:1.2.3,GNU Lesser General Public License,http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
-notification-server,org.attoparser:attoparser:2.0.5.RELEASE,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.glassfish.jaxb:txw2:2.3.0.1,CDDL+GPL License,http://glassfish.java.net/public/CDDL+GPL_1_1.html
-notification-server,org.springframework:spring-web:5.1.6.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,io.swagger:swagger-models:1.5.14,Apache License 2.0,http://www.apache.org/licenses/LICENSE-2.0.html
-notification-server,io.reactivex:rxnetty-contexts:0.4.9,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,io.springfox:springfox-swagger-ui:2.8.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,org.springframework.boot:spring-boot-starter-json:2.1.4.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,org.springframework.boot:spring-boot-actuator-autoconfigure:2.1.4.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-notification-server,io.springfox:springfox-swagger-common:2.8.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-notification-server,javax.annotation:javax.annotation-api:1.3.2,CDDL + GPLv2 with classpath exception,https://github.com/javaee/javax.annotation/blob/master/LICENSE
-notification-server,com.sun.mail:javax.mail:1.6.2,CDDL/GPLv2+CE,https://javaee.github.io/javamail/LICENSE
-authentication-server,io.github.openfeign.form:feign-form-spring:3.8.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.springframework.security:spring-security-rsa:1.0.10.RELEASE,Apache 2.0,http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.springframework.boot:spring-boot-starter-json:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,org.springframework.data:spring-data-commons:2.4.15,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,org.springframework.data:spring-data-mongodb:3.1.15,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,io.springfox:springfox-swagger-common:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.springframework.cloud:spring-cloud-loadbalancer:3.0.5,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,org.aspectj:aspectjweaver:1.9.7,Eclipse Public License - v 2.0,https://www.eclipse.org/org/documents/epl-2.0/EPL-2.0.txt
-authentication-server,net.logstash.logback:logstash-logback-encoder:6.4,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0
-authentication-server,net.logstash.logback:logstash-logback-encoder:6.4,MIT License,http://www.slf4j.org/license.html
-authentication-server,org.springframework.boot:spring-boot-starter-cache:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,org.apache.santuario:xmlsec:2.2.3,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,io.springfox:springfox-spring-webmvc:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.springframework.cloud:spring-cloud-starter-openfeign:3.0.6,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,org.springframework:spring-core:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,org.slf4j:slf4j-api:1.7.32,MIT License,http://www.opensource.org/licenses/mit-license.php
-authentication-server,org.springframework.boot:spring-boot-starter-validation:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,org.bouncycastle:bcpkix-jdk15on:1.68,Bouncy Castle Licence,http://www.bouncycastle.org/licence.html
-authentication-server,org.apache.tomcat.embed:tomcat-embed-websocket:9.0.55,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,net.minidev:json-smart:2.3.1,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.springframework.cloud:spring-cloud-openfeign-core:3.0.6,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,org.apache.logging.log4j:log4j-api:2.13.3,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,io.springfox:springfox-oas:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,io.projectreactor:reactor-core:3.4.12,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,io.springfox:springfox-boot-starter:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.mapstruct:mapstruct:1.3.1.Final,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.springframework.boot:spring-boot-starter:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,io.github.openfeign:feign-slf4j:10.12,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,com.fasterxml.jackson.core:jackson-databind:2.11.4,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,com.fasterxml.jackson.module:jackson-module-parameter-names:2.11.4,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.springframework.boot:spring-boot-starter-actuator:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,org.mongodb:mongodb-driver-sync:4.1.2,"The Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,com.github.ua-parser:uap-java:1.4.4,"The Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,com.stoyanr:evictor:1.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,io.springfox:springfox-core:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,io.swagger.core.v3:swagger-annotations:2.1.2,Apache License 2.0,http://www.apache.org/licenses/LICENSE-2.0.html
-authentication-server,org.glassfish:jakarta.el:3.0.4,EPL 2.0,http://www.eclipse.org/legal/epl-2.0
-authentication-server,org.glassfish:jakarta.el:3.0.4,GPL2 w/ CPE,https://www.gnu.org/software/classpath/license.html
-authentication-server,com.googlecode.json-simple:json-simple:1.1.1,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,io.swagger.core.v3:swagger-models:2.1.2,Apache License 2.0,http://www.apache.org/licenses/LICENSE-2.0.html
-authentication-server,org.passay:passay:1.6.0,Apache 2,http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.passay:passay:1.6.0,GNU Lesser General Public License,http://www.gnu.org/licenses/lgpl-3.0.txt
-authentication-server,com.github.spotbugs:spotbugs-annotations:4.0.1,"GNU LESSER GENERAL PUBLIC LICENSE, Version 2.1",https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html
-authentication-server,org.springframework:spring-jcl:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,org.openapitools:jackson-databind-nullable:0.2.1,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.springframework.hateoas:spring-hateoas:1.2.11,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,org.springframework:spring-context-support:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,javax.xml.bind:jaxb-api:2.3.1,CDDL 1.1,https://oss.oracle.com/licenses/CDDL+GPL-1.1
-authentication-server,javax.xml.bind:jaxb-api:2.3.1,GPL2 w/ CPE,https://oss.oracle.com/licenses/CDDL+GPL-1.1
-authentication-server,org.springframework.security:spring-security-crypto:5.4.9,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.springframework.boot:spring-boot-starter-security:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,com.auth0:java-jwt:3.12.0,The MIT License (MIT),https://raw.githubusercontent.com/auth0/java-jwt/master/LICENSE
-authentication-server,org.jvnet.staxex:stax-ex:1.7.8,Dual license consisting of the CDDL v1.1 and GPL v2,https://glassfish.dev.java.net/public/CDDL+GPL_1_1.html
-authentication-server,org.glassfish.jaxb:jaxb-core:2.3.0.1,CDDL+GPL License,http://glassfish.java.net/public/CDDL+GPL_1_1.html
-authentication-server,org.ow2.asm:asm:5.0.4,BSD,http://asm.objectweb.org/license.html
-authentication-server,io.springfox:springfox-swagger2:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.springframework.boot:spring-boot:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,com.jayway.jsonpath:json-path:2.4.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.springframework:spring-tx:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,org.springframework.cloud:spring-cloud-starter:3.0.5,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,io.swagger:swagger-annotations:1.5.20,Apache License 2.0,http://www.apache.org/licenses/LICENSE-2.0.html
-authentication-server,org.springframework.cloud:spring-cloud-context:3.0.5,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,org.springframework:spring-expression:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,io.springfox:springfox-data-rest:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.springframework.boot:spring-boot-starter-tomcat:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,org.yaml:snakeyaml:1.27,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,io.github.openfeign.form:feign-form:3.8.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.apache.tomcat:tomcat-annotations-api:9.0.55,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,jakarta.annotation:jakarta.annotation-api:1.3.5,EPL 2.0,http://www.eclipse.org/legal/epl-2.0
-authentication-server,jakarta.annotation:jakarta.annotation-api:1.3.5,GPL2 w/ CPE,https://www.gnu.org/software/classpath/license.html
-authentication-server,org.bouncycastle:bcprov-jdk15on:1.69,Bouncy Castle Licence,https://www.bouncycastle.org/licence.html
-authentication-server,org.jolokia:jolokia-core:1.6.2,Apache 2,http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,io.micrometer:micrometer-core:1.6.13,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.springframework:spring-web:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,com.google.code.findbugs:jsr305:3.0.2,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.springframework:spring-beans:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,org.apache.logging.log4j:log4j-to-slf4j:2.13.3,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.springframework.cloud:spring-cloud-starter-loadbalancer:3.0.5,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,ch.qos.logback:logback-classic:1.2.7,Eclipse Public License - v 1.0,http://www.eclipse.org/legal/epl-v10.html
-authentication-server,ch.qos.logback:logback-classic:1.2.7,GNU Lesser General Public License,http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
-authentication-server,org.springframework.security:spring-security-web:5.4.9,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,io.springfox:springfox-spi:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,net.minidev:accessors-smart:2.3.1,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,com.sun.xml.fastinfoset:FastInfoset:1.2.13,"Apache License, Version 2.0",http://www.opensource.org/licenses/apache2.0.php
-authentication-server,net.bytebuddy:byte-buddy:1.10.22,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.springframework.plugin:spring-plugin-core:2.0.0.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,com.fasterxml.jackson.core:jackson-core:2.11.4,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.jboss.logging:jboss-logging:3.4.2.Final,"Apache License, version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.checkerframework:checker-qual:3.8.0,The MIT License,http://opensource.org/licenses/MIT
-authentication-server,ch.qos.logback:logback-core:1.2.7,Eclipse Public License - v 1.0,http://www.eclipse.org/legal/epl-v10.html
-authentication-server,ch.qos.logback:logback-core:1.2.7,GNU Lesser General Public License,http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
-authentication-server,de.codecentric:spring-boot-admin-client:2.1.6,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0
-authentication-server,org.apache.commons:commons-collections4:4.1,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.mongodb:bson:4.1.2,"The Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,commons-codec:commons-codec:1.15,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.glassfish.jaxb:jaxb-runtime:2.3.0.1,CDDL+GPL License,http://glassfish.java.net/public/CDDL+GPL_1_1.html
-authentication-server,org.springframework.security:spring-security-core:5.4.9,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.latencyutils:LatencyUtils:2.0.3,"Public Domain, per Creative Commons CC0",http://creativecommons.org/publicdomain/zero/1.0/
-authentication-server,io.swagger:swagger-models:1.5.20,Apache License 2.0,http://www.apache.org/licenses/LICENSE-2.0.html
-authentication-server,org.springframework:spring-context:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,org.codehaus.woodstox:stax2-api:4.2,The BSD License,http://www.opensource.org/licenses/bsd-license.php
-authentication-server,javax.activation:javax.activation-api:1.2.0,CDDL/GPLv2+CE,https://github.com/javaee/activation/blob/master/LICENSE.txt
-authentication-server,org.springframework.boot:spring-boot-actuator-autoconfigure:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,com.onelogin:java-saml:2.8.0,MIT License,https://opensource.org/licenses/MIT
-authentication-server,org.springframework.cloud:spring-cloud-commons:3.0.5,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,io.projectreactor.addons:reactor-extra:3.4.5,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.apache.tomcat.embed:tomcat-embed-core:9.0.55,"Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,com.github.ben-manes.caffeine:caffeine:2.8.8,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.11.4,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.springframework.boot:spring-boot-starter-web:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,com.google.errorprone:error_prone_annotations:2.4.0,Apache 2.0,http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,com.sun.istack:istack-commons-runtime:3.0.5,CDDL 1.1,https://glassfish.java.net/public/CDDL+GPL_1_1.html
-authentication-server,com.sun.istack:istack-commons-runtime:3.0.5,GPL2 w/ CPE,https://glassfish.java.net/public/CDDL+GPL_1_1.html
-authentication-server,org.springframework.boot:spring-boot-actuator:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,com.fasterxml.jackson.core:jackson-annotations:2.11.4,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.springframework.plugin:spring-plugin-metadata:2.0.0.RELEASE,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,org.springframework.boot:spring-boot-starter-data-mongodb:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,org.bouncycastle:bcpg-jdk15on:1.69,Bouncy Castle Licence,https://www.bouncycastle.org/licence.html
-authentication-server,org.bouncycastle:bcpg-jdk15on:1.69,"Apache Software License, Version 1.1",https://www.apache.org/licenses/LICENSE-1.1
-authentication-server,com.fasterxml:classmate:1.5.1,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.springframework.boot:spring-boot-starter-logging:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,io.springfox:springfox-swagger-ui:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.slf4j:jul-to-slf4j:1.7.32,MIT License,http://www.opensource.org/licenses/mit-license.php
-authentication-server,org.hdrhistogram:HdrHistogram:2.1.12,"Public Domain, per Creative Commons CC0",http://creativecommons.org/publicdomain/zero/1.0/
-authentication-server,org.hdrhistogram:HdrHistogram:2.1.12,BSD-2-Clause,https://opensource.org/licenses/BSD-2-Clause
-authentication-server,jakarta.validation:jakarta.validation-api:2.0.2,Apache License 2.0,http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,com.fasterxml.woodstox:woodstox-core:5.2.1,"The Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,commons-io:commons-io:2.2,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,io.springfox:springfox-bean-validators:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.apache.commons:commons-lang3:3.11,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.hibernate.validator:hibernate-validator:6.1.7.Final,Apache License 2.0,http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.springframework.boot:spring-boot-starter-aop:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,org.springframework.boot:spring-boot-autoconfigure:2.4.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,io.springfox:springfox-spring-web:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,io.github.classgraph:classgraph:4.8.83,The MIT License (MIT),http://opensource.org/licenses/MIT
-authentication-server,org.glassfish.jaxb:txw2:2.3.5,Eclipse Distribution License - v 1.0,http://www.eclipse.org/org/documents/edl-v10.php
-authentication-server,joda-time:joda-time:2.10.6,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.11.4,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,commons-fileupload:commons-fileupload:1.4,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,io.springfox:springfox-schema:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.springframework:spring-aop:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,org.springframework.security:spring-security-config:5.4.9,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,io.springfox:springfox-spring-webflux:3.0.0,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.springframework:spring-webmvc:5.3.13,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
-authentication-server,io.github.openfeign:feign-core:10.12,"The Apache Software License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.mongodb:mongodb-driver-core:4.1.2,"The Apache License, Version 2.0",http://www.apache.org/licenses/LICENSE-2.0.txt
-authentication-server,org.reactivestreams:reactive-streams:1.0.3,CC0,http://creativecommons.org/publicdomain/zero/1.0/
-authentication-server,com.onelogin:java-saml-core:2.8.0,MIT License,https://opensource.org/licenses/MIT
+chroniql-server,org.mongodb:bson-record-codec:5.0.1,"The Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.mongodb:bson:5.0.1,"The Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.mongodb:mongodb-driver-core:5.0.1,"The Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.mongodb:mongodb-driver-sync:5.0.1,"The Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.openapitools:jackson-databind-nullable:0.2.6,Apache License 2.0,https://www.apache.org/licenses/LICENSE-2.0.html
+chroniql-server,org.openjdk.nashorn:nashorn-core:15.4,GPL v2 with the Classpath exception,https://github.com/openjdk/nashorn/blob/main/LICENSE
+chroniql-server,org.ow2.asm:asm-analysis:7.3.1,BSD-3-Clause,https://asm.ow2.io/license.html
+chroniql-server,org.ow2.asm:asm-commons:7.3.1,BSD-3-Clause,https://asm.ow2.io/license.html
+chroniql-server,org.ow2.asm:asm-tree:7.3.1,BSD-3-Clause,https://asm.ow2.io/license.html
+chroniql-server,org.ow2.asm:asm-util:7.3.1,BSD-3-Clause,https://asm.ow2.io/license.html
+chroniql-server,org.ow2.asm:asm:9.6,BSD-3-Clause,https://asm.ow2.io/license.html
+chroniql-server,org.passay:passay:1.6.4,Apache 2,https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,,GNU Lesser General Public License,http://www.gnu.org/licenses/lgpl-3.0.txt
+chroniql-server,org.simplejavamail:core-module:8.3.2,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.simplejavamail:simple-java-mail:8.3.2,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.simplejavamail:spring-module:8.3.2,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.slf4j:jul-to-slf4j:2.0.13,MIT License,http://www.opensource.org/licenses/mit-license.php
+chroniql-server,org.slf4j:slf4j-api:2.0.13,MIT License,http://www.opensource.org/licenses/mit-license.php
+chroniql-server,org.springdoc:springdoc-openapi-starter-common:2.2.0,"The Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springdoc:springdoc-openapi-starter-common:2.6.0,"The Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springdoc:springdoc-openapi-starter-webmvc-api:2.6.0,"The Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springdoc:springdoc-openapi-starter-webmvc-ui:2.6.0,"The Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework:spring-aop:6.1.11,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework:spring-beans:6.1.11,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework:spring-context-support:6.1.11,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework:spring-context:6.1.11,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework:spring-core:6.1.11,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework:spring-expression:6.1.11,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework:spring-jcl:6.1.11,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework:spring-tx:6.1.11,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework:spring-web:6.1.11,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework:spring-webmvc:6.1.11,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework:spring-webmvc:6.1.3,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.boot:spring-boot-actuator-autoconfigure:3.3.2,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.boot:spring-boot-actuator:3.3.2,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.boot:spring-boot-autoconfigure:3.3.2,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.boot:spring-boot-starter-actuator:3.3.2,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.boot:spring-boot-starter-aop:3.3.2,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.boot:spring-boot-starter-cache:3.3.2,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.boot:spring-boot-starter-data-mongodb:3.3.2,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.boot:spring-boot-starter-json:3.3.2,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.boot:spring-boot-starter-logging:3.3.2,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.boot:spring-boot-starter-security:3.3.2,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.boot:spring-boot-starter-tomcat:3.3.2,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.boot:spring-boot-starter-validation:3.3.2,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.boot:spring-boot-starter-web:3.3.2,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.boot:spring-boot-starter:3.3.2,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.boot:spring-boot:3.3.2,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.cloud:spring-cloud-commons:4.1.4,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.cloud:spring-cloud-context:4.1.4,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.cloud:spring-cloud-openfeign-core:4.1.3,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.cloud:spring-cloud-starter-openfeign:4.1.3,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.cloud:spring-cloud-starter:4.1.4,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.data:spring-data-commons:3.3.2,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.data:spring-data-mongodb:4.3.2,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.hateoas:spring-hateoas:2.3.1,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.plugin:spring-plugin-core:3.0.0,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.security:spring-security-config:6.3.1,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.security:spring-security-core:6.3.1,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.security:spring-security-crypto:6.3.1,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.security:spring-security-rsa:1.1.3,Apache 2.0,https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.springframework.security:spring-security-web:6.3.1,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.thymeleaf:thymeleaf:3.1.2.RELEASE,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.unbescape:unbescape:1.1.6.RELEASE,"The Apache Software License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.webjars:swagger-ui:5.17.14,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+chroniql-server,org.yaml:snakeyaml:2.2,"Apache License, Version 2.0",https://www.apache.org/licenses/LICENSE-2.0
 akarion-app,@alloc/quick-lru@5.2.0,MIT,https://github.com/sindresorhus/quick-lru
 akarion-app,@ampproject/remapping@2.3.0,Apache-2.0,https://github.com/ampproject/remapping
 akarion-app,@apidevtools/json-schema-ref-parser@11.6.4,MIT,https://github.com/APIDevTools/json-schema-ref-parser
